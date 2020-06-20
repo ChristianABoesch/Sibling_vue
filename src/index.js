@@ -1,7 +1,7 @@
 var app = new Vue({
   el: "#app",
   data: {
-    message: "Pick the best sibling"
+    message: "Hi. Pick the best sibling"
   },
   methods: {
     sound1() {
